@@ -1,5 +1,5 @@
 # Software-Web-Development-Certifications
-My Certifications in Software/Web Development 
+### My Certifications in Software/Web Development are shown below and in .jpg files above
 ![](Webdeve.JPG)
 ![](b.JPG)
 ![](frontend.JPG)
